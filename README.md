@@ -11,10 +11,10 @@ Hello! I am a passionate .NET software developer with 4+ years of experience in 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vandanptl&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Vandanptl&icon=3&color=0)](https://visitcount.itsvg.in)
 
