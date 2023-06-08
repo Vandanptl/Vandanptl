@@ -19,7 +19,7 @@ Hello! I am a passionate .NET software developer with 4+ years of experience in 
 [![](https://visitcount.itsvg.in/api?id=Vandanptl&icon=3&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/vandanptl) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vandanptl) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
