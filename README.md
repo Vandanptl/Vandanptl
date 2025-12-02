@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am a passionate .NET software developer with 5+ years of experience in designing, developing, and deploying robust and scalable applications. My expertise lies in utilizing the power of the .NET framework and C# programming language to create efficient and maintainable code. <br>Shoot me an Email or add me on Linkedin :)
+Hello! I am a passionate .NET software developer with 6+ years of experience in designing, developing, and deploying robust and scalable applications. My expertise lies in utilizing the power of the .NET framework and C# programming language to create efficient and maintainable code. <br>Shoot me an Email or add me on Linkedin :)
 
 
 # 💻 Tech Stack:
